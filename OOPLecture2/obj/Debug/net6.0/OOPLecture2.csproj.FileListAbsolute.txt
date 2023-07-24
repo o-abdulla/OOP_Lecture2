@@ -1,0 +1,15 @@
+C:\Users\osabd\source\repos\OOPLecture2\OOPLecture2\bin\Debug\net6.0\OOPLecture2.exe
+C:\Users\osabd\source\repos\OOPLecture2\OOPLecture2\bin\Debug\net6.0\OOPLecture2.deps.json
+C:\Users\osabd\source\repos\OOPLecture2\OOPLecture2\bin\Debug\net6.0\OOPLecture2.runtimeconfig.json
+C:\Users\osabd\source\repos\OOPLecture2\OOPLecture2\bin\Debug\net6.0\OOPLecture2.dll
+C:\Users\osabd\source\repos\OOPLecture2\OOPLecture2\bin\Debug\net6.0\OOPLecture2.pdb
+C:\Users\osabd\source\repos\OOPLecture2\OOPLecture2\obj\Debug\net6.0\OOPLecture2.csproj.AssemblyReference.cache
+C:\Users\osabd\source\repos\OOPLecture2\OOPLecture2\obj\Debug\net6.0\OOPLecture2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osabd\source\repos\OOPLecture2\OOPLecture2\obj\Debug\net6.0\OOPLecture2.AssemblyInfoInputs.cache
+C:\Users\osabd\source\repos\OOPLecture2\OOPLecture2\obj\Debug\net6.0\OOPLecture2.AssemblyInfo.cs
+C:\Users\osabd\source\repos\OOPLecture2\OOPLecture2\obj\Debug\net6.0\OOPLecture2.csproj.CoreCompileInputs.cache
+C:\Users\osabd\source\repos\OOPLecture2\OOPLecture2\obj\Debug\net6.0\OOPLecture2.dll
+C:\Users\osabd\source\repos\OOPLecture2\OOPLecture2\obj\Debug\net6.0\refint\OOPLecture2.dll
+C:\Users\osabd\source\repos\OOPLecture2\OOPLecture2\obj\Debug\net6.0\OOPLecture2.pdb
+C:\Users\osabd\source\repos\OOPLecture2\OOPLecture2\obj\Debug\net6.0\OOPLecture2.genruntimeconfig.cache
+C:\Users\osabd\source\repos\OOPLecture2\OOPLecture2\obj\Debug\net6.0\ref\OOPLecture2.dll
